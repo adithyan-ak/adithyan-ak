@@ -9,13 +9,15 @@ OSCP · OSEP · OSWE · CRTP · CREST CRT · CEH (Master)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akinfosec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinfosec)
-[![Blog](https://img.shields.io/badge/Blog-adithyanak.com-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://adithyanak.com)
-
 ![Coordinated Disclosures](https://img.shields.io/badge/Coordinated_Disclosures-7-4B0000?style=flat-square)
-![Severity](https://img.shields.io/badge/Severity-1_Critical_%C2%B7_5_High_%C2%B7_1_Medium-b31b1b?style=flat-square)
 ![CVE-2025-45691](https://img.shields.io/badge/CVE--2025--45691-RAGAS-8B0000?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-AI_%C2%B7_LLM_%C2%B7_Agent_Security-6f42c1?style=flat-square)
+
+[![tensorflow](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&logo=github&label=tensorflow&labelColor=0d1117&color=ff6f00)](https://github.com/tensorflow/tensorflow/pull/115326)
+[![openclaw](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&logo=github&label=openclaw&labelColor=0d1117&color=cf222e)](https://github.com/advisories/GHSA-3fv3-6p2v-gxwj)
+[![hermes-agent](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=hermes-agent&labelColor=0d1117&color=8957e5)](https://github.com/NousResearch/hermes-agent/issues/46435)
+[![promptfoo](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&logo=github&label=promptfoo&labelColor=0d1117&color=1f6feb)](https://github.com/promptfoo/promptfoo/pull/9693)
+[![ragas](https://img.shields.io/github/stars/vibrantlabsai/ragas?style=flat-square&logo=github&label=ragas&labelColor=0d1117&color=2da44e)](https://github.com/vibrantlabsai/ragas/pull/1991)
 
 </div>
 
