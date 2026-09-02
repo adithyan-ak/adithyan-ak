@@ -100,7 +100,7 @@ Full list on [ORCID](https://orcid.org/0000-0001-9790-2657).
 
 <div align="center">
 
-**Let's talk security:** [LinkedIn](https://www.linkedin.com/in/akinfosec) · [Blog](https://adithyanak.com) · [adioffsec@gmail.com](mailto:adioffsec@gmail.com)
+**Let's talk security:** [LinkedIn](https://www.linkedin.com/in/akinfosec) · [Blog](https://adithyanak.com)
 
 </div>
 
